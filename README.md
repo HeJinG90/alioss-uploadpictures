@@ -8,7 +8,7 @@
 
 ## example
 ![Image text](examples/assets/example.png)
-[![Watch the video](examples/assets/example.mp4)
+![image](examples/assets/example1.gif)
 ## Quick start
 ```js
 yarn add alioss-uploadpictures
