@@ -4,11 +4,13 @@ alioss-uploadpictures
 example
 ![Image text](examples/assets/example.png)
 Quick start
-
+****
 yarn add alioss-uploadpictures
-
+****
 import Vue from 'vue'
+****
 import uploadPictures from 'alioss-uploadpictures'
+****
 Vue.use(uploadPictures)
 
 
