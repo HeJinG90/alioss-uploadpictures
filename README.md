@@ -11,8 +11,7 @@
 ![image](examples/assets/example1.gif)
 ![image](examples/assets/example2.gif)
 ![image](examples/assets/example3.gif)
-![image](examples/assets/example4.gif)
-![image](examples/assets/example5.gif)
+
 ## Quick start
 ```js
 yarn add alioss-uploadpictures
@@ -53,4 +52,4 @@ Vue.use(uploadPictures)
       default: 0
     }
     ```
-## 注意更改成自己的ossconfig   打包之后不会带上 "vue": "^2.6.10"  运行环境依赖vue 不依赖任何ui框架
+## 注意更改成自己的ossconfig ，打包之后不会带上 "vue": "^2.6.10"，运行环境依赖vue，不依赖任何ui框架
