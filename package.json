@@ -1,6 +1,6 @@
 {
   "name": "alioss-uploadpictures",
-  "version": "0.3.5",
+  "version": "0.9.1",
   "private": false,
   "main": "lib/vcolorpicker.umd.min.js",
   "scripts": {
@@ -14,8 +14,7 @@
   },
   "dependencies": {
     "ali-oss": "^6.1.1",
-    "core-js": "^3.4.0",
-    "vue": "^2.6.10"
+    "core-js": "^3.4.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",

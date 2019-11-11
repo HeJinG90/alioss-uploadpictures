@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <uploadPictures @change = "getimg" :imgs = imgs :ossconfig = ossconfig :quality = 1 :dir = dir :size = 200 :num = 5 ></uploadPictures>
+    <uploadPictures @change = "getimg" :imgs = imgs :ossconfig = ossconfig :quality = 1 :dir = dir :size = 200 :num = 3 ></uploadPictures>
   </div>
 </template>
 

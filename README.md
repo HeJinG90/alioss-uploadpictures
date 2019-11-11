@@ -52,4 +52,5 @@ Vue.use(uploadPictures)
       default: 0
     }
     ```
-## 注意更改成自己的ossconfig ，打包之后不会带上 "vue": "^2.6.10"，运行环境依赖vue，不依赖任何ui框架
+# tips
+## 注意更改成自己的ossconfig ，运行环境依赖vue，不依赖任何ui框架
