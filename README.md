@@ -7,10 +7,10 @@
 一个通过传递alioss配置参数即可上传图片的插件。附件功能包括限制图片大小（kb），限制上传张数，压缩图片质量（0-1），以及预览大图。
 
 ## example
-![Image text](examples/assets/example.png)
-![image](examples/assets/example1.gif)
-![image](examples/assets/example2.gif)
-![image](examples/assets/example3.gif)
+![examole](examples/assets/example.png)
+![examole](examples/assets/example1.gif)
+![examole](examples/assets/example2.gif)
+![examole](examples/assets/example3.gif)
 
 ## Quick start
 ```js
@@ -54,3 +54,6 @@ Vue.use(uploadPictures)
     ```
 # tips
 ## 注意更改成自己的ossconfig ，运行环境依赖vue，不依赖任何ui框架
+
+# github
+[仓库地址](https://github.com/HeJinG90/alioss-uploadpictures) 

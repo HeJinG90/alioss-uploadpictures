@@ -163,9 +163,6 @@ export default {
         _this.previewStatus = 'none';
         },
     deleteImg(event){
-      /* eslint-disable */
-      debugger
-      /* eslint-disable */
         let _this = this;
         Array.prototype.remove = function(val) {
           var index = this.indexOf(val);
