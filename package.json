@@ -1,6 +1,6 @@
 {
   "name": "alioss-uploadpictures",
-  "version": "0.9.9",
+  "version": "1.0.0",
   "private": false,
   "main": "lib/vcolorpicker.umd.min.js",
   "scripts": {
