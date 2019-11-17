@@ -1,13 +1,13 @@
 {
   "name": "alioss-uploadpictures",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
-  "main": "lib/vcolorpicker.umd.min.js",
+  "main": "lib/alioss-uploadpictures.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name vcolorpicker --dest lib ./packages/index.js"
+    "lib": "vue-cli-service build --target lib --name alioss-uploadpictures --dest lib ./packages/index.js"
   },
   "peerDependencies": {
     "vue": "^2.5.17"
